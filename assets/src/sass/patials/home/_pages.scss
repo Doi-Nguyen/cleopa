@@ -1,0 +1,25 @@
+#pages {
+
+  #slider_layout {
+    margin-top: -15px;
+    margin-bottom: -7px;
+  }
+
+  .demo-title {
+    text-transform: uppercase;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 0;
+    text-align: center;
+
+    a{
+      color: #444444;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+    }
+  }
+
+  @import "mixs/gallery";
+}

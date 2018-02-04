@@ -1,0 +1,25 @@
+#personal-service {
+  background: url(../images/bg-service.jpg) center no-repeat;
+  padding-top: 125px;
+  padding-bottom: 125px;
+
+  .content-service {
+    text-align: center;
+    a{
+      color: #ffffff;
+      padding: 10px 30px;
+      font-size: 20px;
+      text-decoration: none;
+      background: $primary-color;
+      border-radius: 10px;
+      transition: all .3s;
+      display: inline-block;
+
+      &:hover{
+        background-color: $hover-color;
+      }
+
+    }
+
+  }
+}

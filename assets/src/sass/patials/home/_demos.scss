@@ -1,0 +1,38 @@
+#demos {
+  background: #e6e7e8;
+  background-size: cover;
+
+  .container {
+    > span {
+      font-size: 16px;
+      color: #666;
+      text-align: center;
+      display: block;
+      margin: auto;
+    }
+    > .row{
+      margin-bottom: -15px;
+    }
+
+  }
+
+  .demo {
+    p {
+      font-size: 16px;
+      font-weight: bold;
+      margin-top: 30px;
+      transition: all .3s ease-in-out;
+      text-align: center;
+
+      a {
+        color: #666;
+        text-transform: uppercase;
+        text-decoration-line: none;
+      }
+    }
+  }
+
+  @import "mixs/header-box";
+
+}
+

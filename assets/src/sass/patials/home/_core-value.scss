@@ -1,0 +1,159 @@
+#core-value {
+
+  .core_value {
+
+    margin-top: -8px;
+    margin-bottom: -20px;
+    .bg-core-value {
+      background-color: #f5f6f8;
+      min-height: 120px;
+    }
+
+    .icon {
+      .core-icon {
+        margin: auto;
+        display: block;
+        background: url(../images/core-value.png) no-repeat;
+        height: 70px;
+        position: relative;
+        border-radius: 50px;
+        width: 95px;
+      }
+      .ci-1 {
+        background-position-x: -40px;
+        background-position-y: 0;
+      }
+
+      .ci-2 {
+        background-position-x: -240px;
+        background-position-y: 0;
+      }
+
+      .ci-3 {
+        background-position-x: -440px;
+        background-position-y: 0;
+      }
+
+      .ci-4 {
+        background-position-x: -640px;
+        background-position-y: 0;
+      }
+
+      .ci-5 {
+        background-position-x: -834px;
+        background-position-y: 0;
+      }
+
+      .ci-6 {
+        background-position-x: -1037px;
+        background-position-y: 0;
+      }
+
+      .ci-7 {
+        background-position-x: -40px;
+        background-position-y: -135px;
+      }
+      .ci-8 {
+        background-position-x: -240px;
+        background-position-y: -135px;
+      }
+
+      .ci-9 {
+        background-position-x: -440px;
+        background-position-y: -135px;
+      }
+
+      .ci-10 {
+        background-position-x: -640px;
+        background-position-y: -135px;
+      }
+
+      .ci-11 {
+        background-position-x: -834px;
+        background-position-y: -135px;
+      }
+
+      .ci-12 {
+        background-position-x: -1037px;
+        background-position-y: -135px;
+      }
+
+      .ci-13 {
+        background-position-x: -40px;
+        background-position-y: -270px;
+      }
+
+      .ci-14 {
+        background-position-x: -240px;
+        background-position-y: -270px;
+      }
+
+      .ci-15 {
+        background-position-x: -440px;
+        background-position-y: -270px;
+      }
+
+      .ci-16 {
+        background-position-x: -640px;
+        background-position-y: -270px;
+      }
+
+      .ci-17 {
+        background-position-x: -834px;
+        background-position-y: -270px;
+      }
+
+      .ci-18 {
+        background-position-x: -1037px;
+        background-position-y: -270px;
+      }
+
+      .ci-19 {
+        background-position-x: -40px;
+        background-position-y: -400px;
+      }
+
+      .ci-20 {
+        background-position-x: -240px;
+        background-position-y: -400px;
+      }
+
+      .ci-21 {
+        background-position-x: -440px;
+        background-position-y: -400px;
+      }
+
+      .ci-22 {
+        background-position-x: -640px;
+        background-position-y: -400px;
+      }
+
+      .ci-23 {
+        background-position-x: -834px;
+        background-position-y: -400px;
+      }
+
+      .ci-24 {
+        background-position-x: -1037px;
+        background-position-y: -400px;
+      }
+
+    }
+
+    .content {
+      padding: 0 10px;
+      text-align: center;
+      p {
+        color: #666;
+        font-weight: bold;
+      }
+    }
+
+    .value-item {
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+
+  }
+
+}

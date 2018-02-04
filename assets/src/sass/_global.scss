@@ -1,0 +1,60 @@
+$primary-color: #f68d7d;
+$hover-color:#f89e90;
+body{
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  color: #333;
+}
+
+
+@media screen and (min-width: 1200px){
+    .container {
+      max-width: 1170px;
+    }
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+a{
+  text-decoration-line: none;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+main > div {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+
+.core-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 900;
+  width: 100%;
+}
+
+.core-sub-title {
+  padding-bottom: 0;
+  padding-top: 0;
+  margin: 0 auto 55px;
+  color: #666;
+  text-align: center;
+  width: 75%;
+  font-size: 16px;
+}
+
+.text-color {
+  color: $primary-color;
+}
+
+
+
