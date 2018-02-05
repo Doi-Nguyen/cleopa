@@ -1,0 +1,14 @@
+@import
+  // Shared part of all effects
+  // -------------------------
+"bourbon/bourbon"           // mixins for Sass: http://bourbon.io/docs/
+,   "shared/variables"
+,   "shared/default-styles"     // some styling
+;
+
+//  //  Square
+//  // -------------------------
+//
+
+@import "square/effect4";
+@import "square/effect6";
